@@ -1,0 +1,7 @@
+-meta tags
+
+-changer l'image bg
+
+
+
+-activer formulaire formspree
