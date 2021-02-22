@@ -2,4 +2,4 @@
 
 -changer l'image bg
 
--activer formulaire formspree ----   DONE (test?)
+-changer le font
